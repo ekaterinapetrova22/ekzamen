@@ -1,0 +1,15 @@
+C:\Users\инет\source\repos\ekzamen\ekzamen\bin\Debug\ekzamen.exe.config
+C:\Users\инет\source\repos\ekzamen\ekzamen\bin\Debug\ekzamen.exe
+C:\Users\инет\source\repos\ekzamen\ekzamen\bin\Debug\ekzamen.pdb
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen.csprojAssemblyReference.cache
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\MainWindow.g.cs
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\App.g.cs
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen_MarkupCompile.cache
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen_MarkupCompile.lref
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\MainWindow.baml
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen.g.resources
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen.Properties.Resources.resources
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen.csproj.GenerateResource.cache
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen.csproj.CoreCompileInputs.cache
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen.exe
+C:\Users\инет\source\repos\ekzamen\ekzamen\obj\Debug\ekzamen.pdb
